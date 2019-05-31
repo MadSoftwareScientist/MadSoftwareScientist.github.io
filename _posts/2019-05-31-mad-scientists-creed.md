@@ -4,7 +4,7 @@ title: Mad Scientist's Creed
 date:   2019-05-31 23:30:00 +0300
 excerpt: This is my knowledge. There are many like it, but this one is mine. My knowledge is my best friend. It is my life. I must master it as I must master my life.
 categories: common
-permalink: /blog/mad-scientits-creed
+permalink: /blog/mad-scientists-creed
 comment_issue_id: 1
 ---
 
