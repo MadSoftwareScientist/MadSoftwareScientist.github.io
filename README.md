@@ -59,4 +59,4 @@ TBD
 
 ## Licence
 
-TBD
+Copyright © 2019 MadSoftwareScientist.
