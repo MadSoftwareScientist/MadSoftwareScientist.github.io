@@ -34,13 +34,13 @@ gem install jekyll bundler
 Clone repository:
 
 ```bash
-git clone git@github.com:MadSoftwareScientist/mad-software-science-blog.git
+git clone git@github.com:MadSoftwareScientist/MadSoftwareScientist.github.io
 ```
 
 Insstall dependencies:
 
 ```bash
-cd mad-software-science-blog/
+cd MadSoftwareScientist.github.io/
 bundler install
 ```
 
