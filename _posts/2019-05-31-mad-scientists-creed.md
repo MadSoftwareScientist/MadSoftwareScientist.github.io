@@ -8,7 +8,7 @@ permalink: /blog/mad-scientits-creed
 comment_issue_id: 1
 ---
 
-![Books](/assets/img/books.jpg)
+![Books](/assets/img/books.png)
 
 This is my knowledge. There are many like it, but this one is mine.
 
