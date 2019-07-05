@@ -24,4 +24,4 @@ Since a young child, I have been interested in mathematics, science and making b
 
 This enthusiasm to study and understand, how things work, have followed me through life. Working in the software industry have offered me an excellent environment to learn new things. However, in work life, you cannot always do what you want, but what clients are ready to pay for. This blog gives me the opportunity to study and write about those things that clients are not ready to pay for.
 
-You can find me from Twitter with nick [@madswscientist](https://twitter.com/madswscientist). Say 'hello' to me on Twitter and follow me to get the latest updates about new posts.
+You can find me from Twitter with nick [@madswscientist](https://twitter.com/madswscientist) and on Facebook with nick [@MadSoftwareScientist](https://www.facebook.com/MadSoftwareScientist/). Say 'hello' to me on Twitter or Facebook and follow me to get the latest updates about new posts.
