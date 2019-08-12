@@ -13,7 +13,7 @@ sudo apt-get install ruby-full gcc g++ make
 Add following lines to ```.bashrc``` -file:
 
 ```bash
-export GEM_HOME="/home/tela/.gem"
+export GEM_HOME="/home/username/.gem"
 export PATH="$PATH:$GEM_HOME/bin"
 ```
 
